@@ -1,0 +1,9 @@
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\bin\Debug\2019 judeteana.exe.config
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\bin\Debug\2019 judeteana.exe
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\bin\Debug\2019 judeteana.pdb
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\obj\Debug\2019 judeteana.csprojResolveAssemblyReference.cache
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\obj\Debug\_2019_judeteana.Form1.resources
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\obj\Debug\_2019_judeteana.Properties.Resources.resources
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\obj\Debug\2019 judeteana.csproj.GenerateResource.Cache
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\obj\Debug\2019 judeteana.exe
+C:\Users\mok_a\Desktop\2019 judeteana\2019 judeteana\obj\Debug\2019 judeteana.pdb
